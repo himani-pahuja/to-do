@@ -1,4 +1,0 @@
-com/faisalhimani/todo/controller/HelloWorldController.java
- com.faisalhimani.todo.controller.HelloWorldController
-com/faisalhimani/todo/TodoApplication.java
- com.faisalhimani.todo.TodoApplication
